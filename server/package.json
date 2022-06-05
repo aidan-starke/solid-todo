@@ -1,0 +1,19 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/ws": "^8",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "@graphql-yoga/node": "^2.8.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.5.0",
+    "graphql-ws": "^5.8.2",
+    "ws": "^8.7.0"
+  },
+  "packageManager": "yarn@3.2.1"
+}
